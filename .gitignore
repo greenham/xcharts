@@ -7,3 +7,4 @@ build/*
 xcharts-build.tar.gz
 tmp_build/*
 docs/css/*
+nbproject/*
